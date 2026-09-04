@@ -4,3 +4,6 @@ Substract B: You fill in two variables a and b. Then a-b happens
 This is my first edit in the shared repository, this is joris
 ## multiply(a, b) 
 It multiplies two variables, a and b
+
+Joris: I added a distance from zero function using the subtract function
+
